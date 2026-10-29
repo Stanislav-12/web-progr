@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <book>
+    <id>a1b2c3d4e5f60718</id>
+    <title>Лісова пісня</title>
+    <author>Леся Українка</author>
+    <year>1911</year>
+  </book>
+  <book>
+    <id>0f1e2d3c4b5a6978</id>
+    <title>Тіні забутих предків</title>
+    <author>Михайло Коцюбинський</author>
+    <year>1911</year>
+  </book>
+  <book>
+    <id>9a8b7c6d5e4f3021</id>
+    <title>Казка &lt;про&gt; &amp; янн</title>
+    <author>Емма Андієвська</author>
+    <year>2000</year>
+  </book>
+  <book>
+    <id>88beaa2fa22a66b8</id>
+    <title>Енеїда</title>
+    <author>Іван Котляревський</author>
+    <year>1842</year>
+  </book>
+  <book>
+    <id>e8d940136d774f41</id>
+    <title>Кайдашева сім'я1</title>
+    <author>Іван Нечуй-Левицький</author>
+    <year>1879</year>
+  </book>
+</library>
